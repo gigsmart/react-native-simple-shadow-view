@@ -1,5 +1,5 @@
 {
-  "name": "@vikasrg/react-native-simple-shadow-view",
+  "name": "@gigsmart/react-native-simple-shadow-view",
   "version": "1.6.4",
   "description": "a Native shadow view for react native, for Android and iOS",
   "main": "index.js",
